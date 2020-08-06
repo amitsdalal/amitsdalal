@@ -10,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: noob with geeky thinking. 
 
+---
+
+<img align="left" alt="Amit Dalal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitsdalal&show_icons=true&hide_border=true" />
