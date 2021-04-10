@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/pirated_jat" target="blank"><img src="https://img.shields.io/twitter/follow/pirated_jat?logo=twitter&style=for-the-badge" alt="pirated_jat" /></a> </p>
 
+- 🔭 I’m currently working on [Slack automation, chatops](It’s private.)
+
+- 🌱 I’m currently learning **Multiple low level concepts in k8s and python.**
+
+- 💬 Ask me about **Nginx is my forte.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pirated_jat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pirated_jat" height="30" width="40" /></a>
