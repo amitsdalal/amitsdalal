@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Multiple low level concepts in k8s and python.**
 
-- 💬 Ask me about **Nginx is my forte.**
+- 💬 Ask me about **nGinx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
